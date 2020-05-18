@@ -1,4 +1,5 @@
 Predicting Used Car Sale Prices using Machine Learning: Project Overview
+----
 
 - Using the Craiglist used car dataset from Kaggle, the aim of this project was to determine the optimal car price based on the various features provided.
 - Optimized Lasso, Elastic Net, XG Boost, Random Forest, and a Stacked Model using Gridsearch CV to reach the best model. 
